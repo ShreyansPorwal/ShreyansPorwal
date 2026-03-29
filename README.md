@@ -18,7 +18,7 @@ Machine Learning Engineer focused on building end-to-end ML systems, from model 
 ### Housing Price Prediction
 - Feature engineering + Random Forest model
 - Improved RMSE through feature selection + tuning
-- Full pipeline from preprocessing → evaluation
+- Full pipeline from preprocessing to evaluation
 
 ### Clothing Similarity (CLIP)
 - Built an embedding pipeline using CLIP (ViT-B/32)
@@ -30,6 +30,6 @@ Python | Scikit-learn | TensorFlow | PyTorch
 XGBoost | LightGBM | Pandas | NumPy  
 Flask | Docker | GCP | AWS  
 
-## 📫 Connect
+## Connect
 - LinkedIn: linkedin.com/in/shreyansporwal/
 - Email: shreyansporwal@gmail.com
